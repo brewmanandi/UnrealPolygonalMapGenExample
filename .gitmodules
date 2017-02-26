@@ -1,0 +1,3 @@
+[submodule "Plugins/Unreal-Polygonal-Map-Gen"]
+	path = Plugins/Unreal-Polygonal-Map-Gen
+	url = git@github.com:Jay2645/Unreal-Polygonal-Map-Gen.git
