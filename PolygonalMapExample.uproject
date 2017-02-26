@@ -7,7 +7,16 @@
 		{
 			"Name": "PolygonalMapExample",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"PolygonalMapGenerator"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PolygonalMapGenerator",
+			"Enabled": true
 		}
 	]
 }
